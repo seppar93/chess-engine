@@ -1,2 +1,2 @@
 # chess-engine
-a chess engine written in Javascript 
+A chess engine written in Javascript 
